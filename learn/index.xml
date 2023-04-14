@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learn on Ordinals Ecosystem</title>
-    <link>https://ordinals-ecosystem.com/learn/</link>
+    <link>http://ordinals-ecosystem.com/learn/</link>
     <description>Recent content in Learn on Ordinals Ecosystem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2023, Ordinals Ecosystem</copyright><atom:link href="https://ordinals-ecosystem.com/learn/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2023, Ordinals Ecosystem</copyright><atom:link href="http://ordinals-ecosystem.com/learn/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ordinals Ecosystem</title>
-    <link>https://ordinals-ecosystem.com/tags/</link>
+    <link>http://ordinals-ecosystem.com/tags/</link>
     <description>Recent content in Tags on Ordinals Ecosystem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2023, Ordinals Ecosystem</copyright><atom:link href="https://ordinals-ecosystem.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2023, Ordinals Ecosystem</copyright><atom:link href="http://ordinals-ecosystem.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>explorer</title>
-      <link>https://ordinals-ecosystem.com/tags/explorer/</link>
+      <link>http://ordinals-ecosystem.com/tags/explorer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ordinals-ecosystem.com/tags/explorer/</guid>
+      <guid>http://ordinals-ecosystem.com/tags/explorer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>inscribe</title>
-      <link>https://ordinals-ecosystem.com/tags/inscribe/</link>
+      <link>http://ordinals-ecosystem.com/tags/inscribe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ordinals-ecosystem.com/tags/inscribe/</guid>
+      <guid>http://ordinals-ecosystem.com/tags/inscribe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>marketplace</title>
-      <link>https://ordinals-ecosystem.com/tags/marketplace/</link>
+      <link>http://ordinals-ecosystem.com/tags/marketplace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ordinals-ecosystem.com/tags/marketplace/</guid>
+      <guid>http://ordinals-ecosystem.com/tags/marketplace/</guid>
       <description></description>
     </item>
     
     <item>
       <title>wallet</title>
-      <link>https://ordinals-ecosystem.com/tags/wallet/</link>
+      <link>http://ordinals-ecosystem.com/tags/wallet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ordinals-ecosystem.com/tags/wallet/</guid>
+      <guid>http://ordinals-ecosystem.com/tags/wallet/</guid>
       <description></description>
     </item>
     

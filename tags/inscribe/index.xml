@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>inscribe on Ordinals Ecosystem</title>
-    <link>https://ordinals-ecosystem.com/tags/inscribe/</link>
+    <link>http://ordinals-ecosystem.com/tags/inscribe/</link>
     <description>Recent content in inscribe on Ordinals Ecosystem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2023, Ordinals Ecosystem</copyright><atom:link href="https://ordinals-ecosystem.com/tags/inscribe/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2023, Ordinals Ecosystem</copyright><atom:link href="http://ordinals-ecosystem.com/tags/inscribe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UniSat</title>
-      <link>https://ordinals-ecosystem.com/ecosystem/unisat/</link>
+      <link>http://ordinals-ecosystem.com/ecosystem/unisat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ordinals-ecosystem.com/ecosystem/unisat/</guid>
+      <guid>http://ordinals-ecosystem.com/ecosystem/unisat/</guid>
       <description>UniSat Wallet is a browser extension wallet to help you store, send, and receive Bitcoin and Ordinals. As the world&amp;rsquo;s first Open Source Chrome wallet for Ordinals, it offers a range of features that make it an ideal choice for anyone looking for a secure and reliable wallet.
 When it comes to security, UniSat is a non-custodial wallet, which means that you&amp;rsquo;re always in control of your funds. UniSat Wallet never has access to your funds, and it never stores your seed phrase, password, or any private information.</description>
     </item>
     
     <item>
       <title>Luminex</title>
-      <link>https://ordinals-ecosystem.com/ecosystem/luminex/</link>
+      <link>http://ordinals-ecosystem.com/ecosystem/luminex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ordinals-ecosystem.com/ecosystem/luminex/</guid>
+      <guid>http://ordinals-ecosystem.com/ecosystem/luminex/</guid>
       <description>Find the rarest Ordinals from both Bitcoin and Ethereum and start your journey to owning one-of-a-kind Ordinals! </description>
     </item>
     
     <item>
       <title>Ordinals Bot</title>
-      <link>https://ordinals-ecosystem.com/ecosystem/ordinals-bot/</link>
+      <link>http://ordinals-ecosystem.com/ecosystem/ordinals-bot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ordinals-ecosystem.com/ecosystem/ordinals-bot/</guid>
+      <guid>http://ordinals-ecosystem.com/ecosystem/ordinals-bot/</guid>
       <description>With Ordinals Bot it&amp;rsquo;s easy to create Ordinals inscriptions on Bitcoin. </description>
     </item>
     
     <item>
       <title>Gamma</title>
-      <link>https://ordinals-ecosystem.com/ecosystem/gamma/</link>
+      <link>http://ordinals-ecosystem.com/ecosystem/gamma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ordinals-ecosystem.com/ecosystem/gamma/</guid>
+      <guid>http://ordinals-ecosystem.com/ecosystem/gamma/</guid>
       <description>Gamma enables the trading of Bitcoin NFTs using Ordinals on L1 and Stacks on L2. Gamma consists of three parts:
 Inscribe tool for creators to easily make their own Ordinals NFTs. Marketplace where people can browse and buy Ordinals NFTs. API Infrastructure that lets other apps and services use Gamma&amp;rsquo;s features. Most of the NFT collections on Gamma were made using the inscribe tool, and lots of money has been exchanged through the marketplace.</description>
     </item>
     
     <item>
       <title>Ordinals Finance</title>
-      <link>https://ordinals-ecosystem.com/ecosystem/ordinals-finance/</link>
+      <link>http://ordinals-ecosystem.com/ecosystem/ordinals-finance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ordinals-ecosystem.com/ecosystem/ordinals-finance/</guid>
+      <guid>http://ordinals-ecosystem.com/ecosystem/ordinals-finance/</guid>
       <description>Ordinals Finance is a platform for developing DeFi applications on Bitcoin Ordinals Finance is a platform for decentralized finance (DeFi) that aims to create a more accessible, transparent, and secure financial system for individuals and communities worldwide. It is their goal is to become a leading DeFi platform that is easy to use and available to everyone, regardless of their financial background or location.
 By leveraging the Bitcoin blockchain, Ordinals Finance aims to develop innovative DeFi applications that can help address the traditional financial system&amp;rsquo;s major challenges, such as high fees, lack of transparency, and limited credit access.</description>
     </item>
     
     <item>
       <title>Ordswap</title>
-      <link>https://ordinals-ecosystem.com/ecosystem/ordswap/</link>
+      <link>http://ordinals-ecosystem.com/ecosystem/ordswap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ordinals-ecosystem.com/ecosystem/ordswap/</guid>
+      <guid>http://ordinals-ecosystem.com/ecosystem/ordswap/</guid>
       <description>Ordswap is the world&amp;rsquo;s first and largest trustless Ordinals marketplace built on Bitcoin. Ordswap is an online marketplace that specializes in the buying, selling, and inscribing of Bitcoin Ordinals. As the first trustless ordinal NFT marketplace, Ordswap offers an all-in-one solution for everything Ordinals, making it easy for collectors and creators to get started with their NFT trading.
 By using PSBT, users can complete their transactions without having to worry about expensive fees or complicated processes.</description>
     </item>
