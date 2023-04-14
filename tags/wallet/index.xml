@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wallet on Ordinals Ecosystem</title>
+    <link>https://ordinals-ecosystem.com/tags/wallet/</link>
+    <description>Recent content in wallet on Ordinals Ecosystem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023, Ordinals Ecosystem</copyright><atom:link href="https://ordinals-ecosystem.com/tags/wallet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ordinals Wallet</title>
+      <link>https://ordinals-ecosystem.com/ecosystem/ordinals-wallet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ordinals-ecosystem.com/ecosystem/ordinals-wallet/</guid>
+      <description>Ordinals Wallet is a completely trustless, non-custodial wallet and marketplace Ordinals Wallet provides a secure and user-friendly solution for receiving, storing, and viewing Ordinals in your wallet.
+One of the unique aspects of Ordinals Wallet is its popular Ordinals marketplace, which enables users to list Ordinals for sale and make purchases. This means that you can not only hold onto your Ordinals but also trade them with others, expanding your portfolio and potentially earning a profit.</description>
+    </item>
+    
+    <item>
+      <title>UniSat</title>
+      <link>https://ordinals-ecosystem.com/ecosystem/unisat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ordinals-ecosystem.com/ecosystem/unisat/</guid>
+      <description>UniSat Wallet is a browser extension wallet to help you store, send, and receive Bitcoin and Ordinals. As the world&amp;rsquo;s first Open Source Chrome wallet for Ordinals, it offers a range of features that make it an ideal choice for anyone looking for a secure and reliable wallet.
+When it comes to security, UniSat is a non-custodial wallet, which means that you&amp;rsquo;re always in control of your funds. UniSat Wallet never has access to your funds, and it never stores your seed phrase, password, or any private information.</description>
+    </item>
+    
+    <item>
+      <title>XVerse</title>
+      <link>https://ordinals-ecosystem.com/ecosystem/xverse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ordinals-ecosystem.com/ecosystem/xverse/</guid>
+      <description>The most advanced Bitcoin wallet, built for everyone. XVerse Wallet is a secure and reliable wallet to store your Bitcoins. You can access your wallet through your desktop or mobile device, making it easy to manage your transactions on the go.
+The wallet&amp;rsquo;s intuitive design makes it simple for beginners to navigate and use, while its advanced features offer more experienced users the flexibility and control they need.
+Whether you&amp;rsquo;re new to Bitcoin or an experienced user, XVerse Wallet is the perfect choice for anyone looking for the most advanced and user-friendly Bitcoin wallet on the market.</description>
+    </item>
+    
+    <item>
+      <title>OrdinalSafe</title>
+      <link>https://ordinals-ecosystem.com/ecosystem/ordinal-safe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ordinals-ecosystem.com/ecosystem/ordinal-safe/</guid>
+      <description>OrdinalSafe is a Bitcoin extension wallet built for Ordinals </description>
+    </item>
+    
+    <item>
+      <title>Hiro Wallet</title>
+      <link>https://ordinals-ecosystem.com/ecosystem/hiro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ordinals-ecosystem.com/ecosystem/hiro/</guid>
+      <description>Hiro Wallet is the most popular and trusted wallet for apps built on Bitcoin. The Hiro Wallet is a great tool that helps you manage your tokens and collectibles on Bitcoin and Bitcoin L2s, while also keeping them safe when you use different apps.
+Hiro Wallet provides all the necessary features you need for managing your assets directly from your browser.
+Create Ordinal inscriptions. Send bitcoin to any type of Bitcoin address.</description>
+    </item>
+    
+  </channel>
+</rss>

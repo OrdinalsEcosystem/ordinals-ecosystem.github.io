@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academy on Ordinals Ecosystem</title>
+    <link>https://ordinals-ecosystem.com/academy/</link>
+    <description>Recent content in Academy on Ordinals Ecosystem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2022, Ordinals Ecosystem</copyright>
+    <lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ordinals-ecosystem.com/academy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started</title>
+      <link>https://ordinals-ecosystem.com/academy/getting-started/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ordinals-ecosystem.com/academy/getting-started/</guid>
+      <description>1. Install UniSat Visit Paragon.li and select your browser type. Follow steps in your respective extension store to add Paragon to your browser. After installing, look for the Paragon icon in your browser&amp;rsquo;s toolbar.
+If you are using Chrome, it will be in the top right hand side of your browser. If you don&amp;rsquo;t see it look for a &amp;ldquo;puzzle piece&amp;rdquo; icon and click on it to access a list of installed extensions.</description>
+    </item>
+    
+    <item>
+      <title>Setup Wallet</title>
+      <link>https://ordinals-ecosystem.com/academy/setup/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ordinals-ecosystem.com/academy/setup/</guid>
+      <description>1. Install UniSat Visit Paragon.li and select your browser type. Follow steps in your respective extension store to add Paragon to your browser. After installing, look for the Paragon icon in your browser&amp;rsquo;s toolbar.
+If you are using Chrome, it will be in the top right hand side of your browser. If you don&amp;rsquo;t see it look for a &amp;ldquo;puzzle piece&amp;rdquo; icon and click on it to access a list of installed extensions.</description>
+    </item>
+    
+  </channel>
+</rss>
